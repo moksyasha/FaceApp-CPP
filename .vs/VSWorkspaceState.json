@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\FaceApp"
+    "\\FaceApp",
+    "\\out"
   ],
   "SelectedNode": "\\FaceApp\\CMakeLists.txt",
   "PreviewInSolutionExplorer": false
